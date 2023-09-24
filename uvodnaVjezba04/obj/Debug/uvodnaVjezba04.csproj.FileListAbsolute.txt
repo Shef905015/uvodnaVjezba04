@@ -1,0 +1,7 @@
+C:\Users\shef\source\repos\uvodnaVjezba04\uvodnaVjezba04\bin\Debug\uvodnaVjezba04.exe.config
+C:\Users\shef\source\repos\uvodnaVjezba04\uvodnaVjezba04\bin\Debug\uvodnaVjezba04.exe
+C:\Users\shef\source\repos\uvodnaVjezba04\uvodnaVjezba04\bin\Debug\uvodnaVjezba04.pdb
+C:\Users\shef\source\repos\uvodnaVjezba04\uvodnaVjezba04\obj\Debug\uvodnaVjezba04.csproj.AssemblyReference.cache
+C:\Users\shef\source\repos\uvodnaVjezba04\uvodnaVjezba04\obj\Debug\uvodnaVjezba04.csproj.CoreCompileInputs.cache
+C:\Users\shef\source\repos\uvodnaVjezba04\uvodnaVjezba04\obj\Debug\uvodnaVjezba04.exe
+C:\Users\shef\source\repos\uvodnaVjezba04\uvodnaVjezba04\obj\Debug\uvodnaVjezba04.pdb
